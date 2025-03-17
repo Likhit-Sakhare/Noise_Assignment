@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UserList.CustomSplash" parent="Theme.SplashScreen.IconBackground">
+        <item name="windowSplashScreenBackground">#1E1E3F</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/user__2_</item>
+        <item name="windowSplashScreenIconBackgroundColor">#FFFFFF</item>
+        <item name="postSplashScreenTheme">@style/Theme.UserList</item>
+    </style>
+</resources>
